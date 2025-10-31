@@ -1,0 +1,4 @@
+"console.log('Hello TypeScript + Node!');";
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+//# sourceMappingURL=main.js.map
